@@ -1,0 +1,46 @@
+hr {
+    width: 90%;
+    border: 1px solid lightskyblue;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+     
+}
+
+input[type="submit"] {
+    font-size: 3em;
+    width: 30%;
+	height: 70%;
+	background-color:green;
+	color:white;
+}
+
+.item {
+	float: left;
+	width: 10em;
+	text-align: right;
+	padding-right: 1em;
+	font-weight:bold;
+}
+
+div.header
+{
+	background-color:white;
+	color:green;
+	WIDTH: 120%;
+	HEIGHT: 50px;
+	TEXT-ALIGN: left;
+	border-bottom:1px solid black;
+}
+
+
+
+a.flea{color:green;text-decoration:none;font-size: 1em;font:bold;}
+a.flea:hover{color:#505050;}
+
+a.mainlink{color:gray;text-decoration:none;font-size: 0.8em;}
+a.mainlink:hover{color:#505050;}
+
+a{color:gray;text-decoration:none;font-size: 0.8em;}
+a:hover{color:blue;}
