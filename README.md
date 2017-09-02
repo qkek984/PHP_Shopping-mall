@@ -4,4 +4,4 @@ Server : Apache (Bitnami-WAMPstack Install)
 
 DB : MySQL
 
-http://localhost/pj/content.php
+Run 'http://localhost/pj/content.php'
