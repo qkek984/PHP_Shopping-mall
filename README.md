@@ -11,10 +11,10 @@
     - etc..
 
 ### Language
-    - PHP
+  - PHP
 
 ### Server
-    - Apache (Bitnami-WAMPstack Install)
+  - Apache (Bitnami-WAMPstack Install)
 
 ### DB
   - MySQL
