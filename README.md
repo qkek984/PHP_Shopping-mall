@@ -1,4 +1,14 @@
 # 2015_PHP_Project(Flea Market)
+    - Shopping mall web page
+
+### technique
+    - login&out
+    - File upload
+    - cookies
+    - session
+    - sql
+    - AJAX
+    - etc..
 
 ### Language
     - PHP
@@ -7,7 +17,7 @@
     - Apache (Bitnami-WAMPstack Install)
 
 ### DB
-    - MySQL
+  - MySQL
       
       <Import DB>
       1. localhost 
